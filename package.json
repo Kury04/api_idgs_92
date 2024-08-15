@@ -2,7 +2,7 @@
   "name": "api_react_idgs",
   "version": "1.0.0",
   "description": "",
-  "main": "node index.js",
+  "main": "index.js",
   "directories": {
     "doc": "docs"
   },
